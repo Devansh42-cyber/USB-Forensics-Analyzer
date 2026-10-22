@@ -1,0 +1,4 @@
+step,vm_local_time,timezone,user,device_label,action,removal_method,notes
+1,2026-10-21 10:15:00,IST,analyst,D1,plug_in,,
+2,2026-10-21 10:16:30,IST,analyst,D1,copy_file_to_device,,report.docx
+3,2026-10-21 10:18:00,IST,analyst,D1,remove,safely_remove,
