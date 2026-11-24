@@ -1,0 +1,11 @@
+scenario,what you did,your noted time (local),our tool (local),our confidence,USBDeview (local),match?,notes
+S01,plugged in,,,,,,
+S01,removed,,,,,,
+S02,1st plug-in,,,,,,
+S02,last plug-in (after 2 reboots),,,,,,
+S02,last removal,,,,,,
+S03,drive A last removal,,,,,,
+S03,drive B last removal,,,,,,
+S04,no-serial drive plugged in,,,,,,
+S04,WEAK ID flag shown? (yes/no),,,,,,
+S05,file opened from drive (name),,,,,,
